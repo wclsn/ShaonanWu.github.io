@@ -20,6 +20,6 @@ Throughout my academic journey, I have been fortunate to engage in various proje
 
 You can find my CV here:[Shaonan Wu's Curriculum Vitae](../assets/Curriculum_Vitae.pdf)
 
-[Email](mailto:eureka_wu_123@163.com)/[Github](https://github.com/wclsn)/[Cnblogs](https://www.cnblogs.com/wclsn-blog/)
-
 Feel free to explore my website to learn more about my academic pursuits, research projects, and experiences. Thank you for visiting, and I hope you find my work inspiring and insightful. Please don't hesitate to reach out if you have any questions or would like to connect. I am excited to connect with fellow researchers, students, and AI enthusiasts from around the world!
+
+[Email](mailto:eureka_wu_123@163.com)/[Github](https://github.com/wclsn)/[Cnblogs](https://www.cnblogs.com/wclsn-blog/)
