@@ -1,7 +1,7 @@
 ---
 title: "Future paper"
 collection: publications
-permalink: /_publications/2199-10-01-paper-title-number-1
+permalink: /publications/2199-10-01-paper-title-number-1
 excerpt: 'This paper is left for future work.'
 date: 2199-10-01
 venue: 'Unknown Journal'
